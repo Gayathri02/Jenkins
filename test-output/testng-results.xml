@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33971" started-at="2018-06-11T09:14:25Z" finished-at="2018-06-11T09:14:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33971" started-at="2018-06-11T09:14:25Z" finished-at="2018-06-11T09:14:59Z">
+      <class name="uitest.TestcaseTest">
+        <test-method status="PASS" signature="openBroswer()[pri:0, instance:uitest.TestcaseTest@ed9d034]" name="openBroswer" duration-ms="33876" started-at="2018-06-11T09:14:25Z" finished-at="2018-06-11T09:14:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBroswer -->
+        <test-method status="PASS" signature="close()[pri:0, instance:uitest.TestcaseTest@ed9d034]" name="close" is-config="true" duration-ms="68" started-at="2018-06-11T09:14:59Z" finished-at="2018-06-11T09:14:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- uitest.TestcaseTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
